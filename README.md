@@ -1,0 +1,2 @@
+# Exploratory-Analysis-Of-Rain-Fall-Data-In-India-For-Agriculture
+The study involves collecting historical rainfall data and analyzing seasonal trends, annual variations, regional differences, and extreme weather patterns such as droughts and heavy rainfall. Using statistical techniques and data visualization tools like graphs, charts, heatmaps, the project identifies patterns, correlations,anomalies in rainfall 
